@@ -1,0 +1,22 @@
+{
+  "name": "VNDC",
+  "logoURI": "https://vndc.io/wp-content/uploads/2020/05/logo-1.png",
+  "keywords": [
+    "VNDC",
+    "DEFI"
+  ],
+  "timestamp": "2020-10-17T17:40:34.305Z",
+  "tokens": [{
+    "chainId": 1,
+    "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+    "name": "VNDC",
+    "symbol": "VNDC",
+    "decimals": 0,
+    "logoURI": "https://vndc.io/wp-content/uploads/2020/05/logo-1.png"
+  }],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
